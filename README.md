@@ -1,2 +1,2 @@
 # java
-Repositório criado para armazenar exercícios de java feitos durante a graduação de engenharia de software.
+Repositório criado para armazenar exercícios de Java feitos durante a graduação em Engenharia de Software.
